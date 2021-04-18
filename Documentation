@@ -1,0 +1,4 @@
+Oil wells over time will develop bacteria which will eventually lead to corrosion and contamination of both water and the oil itself
+The "toxicity" or "destruction" level is based on logarithmic conversion of the intial measurements of mg/L
+This is a example shiny application to see whether or not, a particular reading of bacteria in a sample well is of concern or not
+A log value of 6 or greater is generally considered to be of concern
